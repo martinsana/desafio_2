@@ -25,3 +25,11 @@ steps:
 - script: npm run cy:run:electron
   displayName: 'Running tests on electron'
   continueOnError: true
+
+- task: PublishTestResults@2
+  displayName: 'Exibindo resultados dos testes'
+  inputs:    
+    testResultsFiles: '**/junit-*.xml'
+    mergeTestResults: true
+    testRunTitle: 'Cypress bootcamp desafio 2'
+  continueOnError: true
