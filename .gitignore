@@ -4,10 +4,8 @@ logs
 # Mochawesome reports
 mochawesome-report
 
-# Cucumber report
-cypress/reports/index.html
-cypress/reports/index.html.json
-cypress/reports/cucumber-json/**
+
+cypress/reports/
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
