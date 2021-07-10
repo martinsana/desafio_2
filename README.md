@@ -2,7 +2,7 @@
 
 <h2>Tecnologias usadas</h2>
 <p>#cypress - https://www.cypress.io/<p>
-<p>#faker - https://www.npmjs.com/package/faker<p>
+<p>#Faker - biblioteca para gerar dados aleatórios - https://www.npmjs.com/package/faker<p>
   
 ## Requisitos
   node.js
