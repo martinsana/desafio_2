@@ -14,5 +14,13 @@ npm install
 npx cypress open
 ```
 
-<h2>Testes rodando</h2>
+## Testes rodando - Cadastro
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+  
+  ## Testes rodando - Login
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  
+  
+  ## Testes rodando - Publicação de artigos
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
