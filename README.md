@@ -15,12 +15,12 @@ npx cypress open
 ```
 
 ## Testes rodando - Cadastro
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/martinsana/desafio_2/blob/main/cadastro.spec.js.gif)
 
   
   ## Testes rodando - Login
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  ![Alt Text](https://github.com/martinsana/desafio_2/blob/main/login.spec.js.gif)
   
   
   ## Testes rodando - Publicação de artigos
-  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  ![Alt Text](https://github.com/martinsana/desafio_2/blob/main/articles.spec.js.gif)
