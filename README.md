@@ -8,7 +8,7 @@
   node.js
   
 ## Instalação
-  Após clonar o projeto
+  Após clonar o projeto execute os seguintes comandos na pasta raiz:
 ```bash
 npm install
 npx cypress open
