@@ -4,8 +4,6 @@
 <p>#cypress - https://www.cypress.io/<p>
 <p>#faker - https://www.npmjs.com/package/faker<p>
   
-<h2>Instruções de como rodar o projeto</h2>
-
 ## Requisitos
   node.js
   
